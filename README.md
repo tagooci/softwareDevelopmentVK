@@ -8,4 +8,4 @@
 
 ## Lean Canvas
 
-[Открыть Lean Canvas](</assets/lean_canvas.svg>)
+![Lean Canvas](/assets/lean_canvas.jpg)
